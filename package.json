@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@nestjs/common": "^9.3.11",
+    "@nestjs/core": "^9.3.11",
+    "@nestjs/platform-express": "^9.3.11",
+    "reflect-metadata": "^0.1.13"
+  },
+  "devDependencies": {
+    "@types/node": "^18.15.5"
+  }
+}
